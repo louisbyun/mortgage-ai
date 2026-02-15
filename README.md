@@ -16,7 +16,9 @@ The Mortgage AI Agent provides:
 - 📊 Accurate mortgage payment calculations  
 - 📚 Instant retrieval of mortgage guidelines (LTV, DTI, regulations)  
 - 🌐 Real-time market rate research  
-- ⚡ Ultra-fast LLM responses with minimal infrastructure  
+- ⚡ Ultra-fast LLM responses with minimal infrastructure
+
+  ![Vercel Frontend](./vercel-frontend.png)
 
 All optimized to run efficiently on a **lightweight server environment**.
 
@@ -65,6 +67,7 @@ All optimized to run efficiently on a **lightweight server environment**.
 The Mortgage AI Agent follows a modular, agentic architecture optimized for **speed, accuracy, and efficiency**.
 
 ### 🔄 End-to-End Flow
+![RAG](./load-data-flow.png)
 
 1. **User Query**
    - User submits a mortgage-related question (calculation, regulation, or market inquiry).
